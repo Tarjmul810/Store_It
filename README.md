@@ -32,10 +32,10 @@ Appwrite – As the backend for authentication, database, storage, and APIs
 🛠️ Setup Instructions
 
 Clone the repository:
-
+```bash
 git clone https://github.com/your-username/store-it.git
 cd store-it
-
+```
 
 Install dependencies:
 ```bash
