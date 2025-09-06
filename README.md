@@ -38,9 +38,9 @@ cd store-it
 
 
 Install dependencies:
-
+```bash
 npm install
-
+```
 
 Setup your .env.local with Appwrite credentials
 
