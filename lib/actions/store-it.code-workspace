@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "store-it",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
